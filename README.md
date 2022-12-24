@@ -9,7 +9,7 @@ const about = {
         previously: 'making gains @ gym/leetcode'
     },
     links: {
-        website: 'www.assilazim.com', 
+        website: 'https://assilazim.com/', 
         github:  'https://github.com/assilazim',
         linkedin: 'https://www.linkedin.com/in/assilazim',
     },
