@@ -4,8 +4,8 @@
 const about = {
     name: 'Assil Azim',
     experience: {
-        education: 'computer science @ york university',
-        currently: 'looking for summer 2023 SWE roles / intern @ signify',
+        education: 'york university computer science graduate',
+        currently: 'software engineer @ signify',
         previously: 'making gains @ gym/leetcode'
     },
     links: {
